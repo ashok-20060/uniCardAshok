@@ -1,0 +1,21 @@
+.header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headerTitle {
+    font-size: xxx-large;
+    font-weight: 800;
+}
+
+.uniPaychek {
+    cursor: pointer;
+    font-weight: 500;
+    color: white;
+    background-color: rgb(32 91 88);;
+    padding: 11px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
